@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: multi.start.embedded.bug
+---
+testFramework: spock
+sourceLanguage: groovy
